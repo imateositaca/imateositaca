@@ -1,0 +1,5 @@
+- 👋 Hola!, soy @imateositaca
+- 👀 Estoy interesad@ en informática
+- 🌱 Actualmente estoy estudiando desarrollo de aplicaciones multiplataforma
+- 💞️ Busco colaborar en proyectos Java de escritorio
+- 📫 Contacto: imateos@e-itaca.es
